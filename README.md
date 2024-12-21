@@ -1,3 +1,5 @@
+Smart Lecture: Turning Classroom Text into Study-Ready Text
+
 In the digital age, enhancing student engagement and comprehension is crucial for effective learning. Smart
 Lecture automates the recording, transcription, and summarization of spoken lectures into concise, organized
 text. The system employs Google Speech-to-Text for real-time transcription, the BART model for text
